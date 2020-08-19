@@ -24,7 +24,6 @@
  adb shell pm uninstall -k --user 0 jp.co.sharp.android.providers.soundmemo
  adb shell pm uninstall -k --user 0 jp.co.sharp.android.providers.soundmemo.overlay.product
  adb shell pm uninstall -k --user 0 jp.co.sharp.android.restoreguide
- adb shell pm uninstall -k --user 0 jp.co.sharp.android.scshocapture2
  adb shell pm uninstall -k --user 0 jp.co.sharp.android.service.hikarieffect
  adb shell pm uninstall -k --user 0 jp.co.sharp.android.shaquoscastservice
  adb shell pm uninstall -k --user 0 jp.co.sharp.android.sharpdatabackup
